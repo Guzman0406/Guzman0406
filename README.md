@@ -21,7 +21,6 @@ Actualmente aprendiendo Python con FastAPI — por las ganas, no por la clase.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Bases de Datos**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,9 +52,9 @@ Actualmente aprendiendo Python con FastAPI — por las ganas, no por la clase.
 ---
 
 ### D.A.L.O — Consultas Legales Accesibles
-> Foro donde ciudadanos hacen consultas legales gratuitas y abogados responden. API REST con Java + Javalin bajo Arquitectura Hexagonal. Desplegado en AWS EC2 + S3, con usuarios reales durante producción.
+> Foro donde ciudadanos hacen consultas legales gratuitas y abogados responden. API REST con NestJS y PostgreSQL. Desplegado en AWS EC2 + S3, con usuarios reales durante producción.
 
-`Java` `Javalin` `MySQL` `AWS EC2` `Angular`
+`NestJS` `PostgreSQL` `AWS EC2` `Angular`
 
 ---
 

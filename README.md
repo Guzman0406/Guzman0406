@@ -1,90 +1,88 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+
+# Ángel Eduardo Guzmán López
+### Backend Developer · NestJS · PostgreSQL · AWS
+
+Estudiante de TSU en Desarrollo de Software Multiplataforma en la Universidad Politécnica de Chiapas.  
+Diseño bases de datos, construyo APIs y despliego en producción.  
+Actualmente aprendiendo Python con FastAPI — por las ganas, no por la clase.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guzmán-lópez-ángel-eduardo-156417379)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aguzmanlopez20@gmail.com)
+
 </div>
 
-###
+---
 
-<h2 align="left">Hello! My name is Guzmán, future Software Engineer</h2>
+## Stack principal
 
-## Mi actividad en GitHub
-![Snake animation](https://raw.githubusercontent.com/Guzman040/Guzman040/output/snake.svg)
+**Backend**  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-###
+**Bases de Datos**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnVldmkyYmt6dmdpMHZuMmduZzRmOTZ5cXVrYXN4d3Q2c254Ymt0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDSV8XxuYuLxyAIGc4/giphy.gif"  />
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-###
+**Mobile & Frontend**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
-</div>
+---
 
-###
+## Proyectos destacados
 
-<div align="left">
-  <a href="https://www.instagram.com/eduard.guzm_?igsh=MTl0ODltYmI4cWNvag==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="aguzmanlopez20@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/guzm%C3%A1n-l%C3%B3pez-%C3%A1ngel-eduardo-156417379?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/1c1fw5FnUK/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  </a>
-</div>
+### VouCher — Plataforma de Finanzas Personales
+> Plataforma web para gestión de finanzas personales con métricas propias: Safe-to-Spend, Saldo Proyectado y Prueba de Gasto. Diseñé el esquema completo de PostgreSQL (10 tablas), triggers, stored procedures, vistas analíticas y roles de seguridad. Desplegado en DigitalOcean con ~30 usuarios activos.
 
-###
+`NestJS` `PostgreSQL` `DigitalOcean` `TypeScript`
 
-<img src="https://raw.githubusercontent.com/Guzman0406 /Guzman0406 /output/snake.svg" alt="Snake animation" />
+---
 
-###
+### D.A.L.O — Consultas Legales Accesibles
+> Foro donde ciudadanos hacen consultas legales gratuitas y abogados responden. API REST con Java + Javalin bajo Arquitectura Hexagonal. Desplegado en AWS EC2 + S3, con usuarios reales durante producción.
+
+`Java` `Javalin` `MySQL` `AWS EC2` `Angular`
+
+---
+
+### AutoSync — App Móvil de Servicios Automotrices
+> App Android nativa para administración de servicios de taller mecánico: historial, facturas y recordatorios inteligentes. Backend completo con Firebase. Distribuida como APK para uso en negocio real.
+
+`Kotlin` `Jetpack Compose` `Firebase` `MVVM`
+
+---
+
+### Prueba-FastAPI — Proyecto Personal
+> API REST construida por iniciativa propia para aprender Python y FastAPI. CRUD completo con Pydantic, parámetros tipados y commits atómicos descriptivos.
+
+`Python` `FastAPI` `Pydantic`
+
+---
+
+## Actualmente
+
+- Completando el CRUD de **FastAPI** y migrando a Pydantic
+- Documentando **VouCher** y **CommUnity** en GitHub
+- Buscando **Estadía Profesional** en desarrollo backend
+
+---
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31kq6b27zxgzi7mc3jv2i2dlstd4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kq6b27zxgzi7mc3jv2i2dlstd4&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  
+*"Nada invita más a la vida que tener un motivo para vivirla."*
+
 </div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
